@@ -31,7 +31,7 @@ function Post({
                             </span>
                         </h3>
                     </div>
-                    <div className="psot_headerDescription">
+                    <div className="post_headerDescription">
                         <p>I challange you to build a twitter clone</p>
                     </div>
                 </div>

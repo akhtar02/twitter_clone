@@ -25,3 +25,8 @@
     font-size: 14px !important;
     color: var(--twitter-color);
 }
+
+.post_headerDescription{
+    margin-bottom: 10px;
+    font-size: 15px;
+}
